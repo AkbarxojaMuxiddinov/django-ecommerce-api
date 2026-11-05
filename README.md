@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/meridian-commerce.svg" alt="MERIDIAN — commerce API" width="100%">
+  <img src="assets/cover.svg" alt="Django E-Commerce API" width="100%">
   <br>
   <img src="https://img.shields.io/badge/Django-API-0C4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django API">
   <img src="https://img.shields.io/badge/DRF-catalog-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
@@ -8,7 +8,7 @@
   <p><strong>От витрины до заказа — короткий путь покупки.</strong></p>
 </div>
 
-**MERIDIAN** — учебный backend для интернет-магазина. Каталог товаров соединён с персональной корзиной и оформлением заказов; данные заказа сохраняются отдельно от содержимого корзины.
+Этот репозиторий содержит учебный backend для интернет-магазина. Каталог товаров соединён с персональной корзиной и оформлением заказов; данные заказа сохраняются отдельно от содержимого корзины.
 
 ## Путь заказа
 

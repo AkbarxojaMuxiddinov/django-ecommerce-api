@@ -25,9 +25,10 @@
   <rect x="768" y="194" width="62" height="4" rx="2" fill="#ECEBFF" fill-opacity=".8"/>
   <rect x="918" y="205" width="68" height="4" rx="2" fill="#ECEBFF" fill-opacity=".8"/>
   <rect x="1075" y="215" width="70" height="4" rx="2" fill="#ECEBFF" fill-opacity=".8"/>
-  <text x="72" y="73" fill="#B9A5FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4">COMMERCE API / CHECKOUT FLOW</text>
-  <text x="68" y="164" fill="#F4F2FF" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-3">MERIDIAN</text>
-  <text x="74" y="211" fill="#C4C2DB" font-family="Segoe UI,Arial,sans-serif" font-size="21">Каталог встречается с корзиной и заказом.</text>
+  <text x="72" y="73" fill="#B9A5FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4">PRODUCTS / CART / CHECKOUT</text>
+  <text x="68" y="151" fill="#F4F2FF" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-2">DJANGO E-COMMERCE</text>
+  <text x="74" y="207" fill="#F4F2FF" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="-1">API</text>
+  <text x="74" y="240" fill="#C4C2DB" font-family="Segoe UI,Arial,sans-serif" font-size="19">Путь от товара до заказа и корзины.</text>
   <rect x="74" y="254" width="132" height="4" rx="2" fill="url(#product)"/>
   <text x="74" y="290" fill="#918EB2" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">PRODUCTS  /  CART  /  CHECKOUT</text>
 </svg>
